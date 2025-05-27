@@ -1,3 +1,8 @@
+{"main": "server.js",
+"scripts": {
+  "start": "node server.js"
+}
+},
 {
   "name": "listingsapi",
   "version": "1.0.0",

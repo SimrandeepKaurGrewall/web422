@@ -1,12 +1,8 @@
-{"main": "server.js",
-"scripts": {
-  "start": "node server.js"
-}
-},
+
 {
-  "name": "listingsapi",
+  "name": "web422api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "api/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
